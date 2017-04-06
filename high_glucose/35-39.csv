@@ -1,0 +1,200 @@
+﻿Location,Year,Age,Sex,Risk factor,Measure,Value,Lower bound,Upper bound
+Mozambique,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,1.0194032,0.69718272,1.4566805
+Mauritius,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,7.9965487,5.7701044,10.919531000000001
+Malawi,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,2.1590013000000003,1.538273,2.9468589
+Rwanda,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,1.2378911,0.86446535,1.6656351999999999
+Somalia,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,1.8670352000000001,1.2749901,2.6473485
+Zambia,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,3.0800469,2.2126911,4.2123057
+Kenya,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,3.2298464,2.4790069000000003,4.069380799999999
+Madagascar,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,1.9446924,1.3196536,2.8160162
+South Sudan,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,2.2605668999999997,1.5486157,3.1681418000000003
+Seychelles,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,8.8014327,6.452574599999999,11.522435999999999
+Tanzania,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,3.7202194,2.7636779000000002,4.7845062
+Uganda,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,1.3093387,0.92928456,1.7761527
+Zimbabwe,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,4.8728824,3.6505938,6.4461224
+Ethiopia,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.1833019,3.9779115,6.573478100000001
+Eritrea,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,1.9037463000000001,1.2984316,2.6714262
+Djibouti,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,2.7306901000000003,1.9118072,3.7511360000000002
+Comoros,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,1.1468071,0.79212971,1.5788486000000002
+Burundi,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,1.8154882,1.2308484,2.5865516
+Gabon,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,4.5443799,3.2800075,6.0665287
+Equatorial Guinea,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.106808999999999,3.6327112,6.5970398
+Chad,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.1977981,3.730958,6.9741026
+Sao Tome and Principe,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,0.79260096,0.52269944,1.1406238000000002
+Congo,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,3.7867736,2.669131,5.1526695
+Democratic Republic of the Congo,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,2.8200822,1.9382406,4.0216208
+Cameroon,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,2.8694171,2.1096762,3.8558799999999995
+Central African Republic,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,2.9418802,2.0748071,4.1295383
+Angola,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,3.9727688,2.8481638,5.4063726
+Morocco,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.9176277,4.2945828,8.135686100000001
+Libya,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,9.153620199999999,6.9254339,11.823837
+Sudan,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.182944,4.5560371,8.3265975
+Tunisia,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,8.5196808,6.5207176,10.921769000000001
+Algeria,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,4.506474,3.2325108,5.9490301
+Namibia,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,4.7589567,3.683579,6.0342199999999995
+Swaziland,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,4.8198543,3.7167825000000003,6.1328556
+Lesotho,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,2.7279193999999998,2.0176949,3.5078563
+South Africa,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,7.760661100000001,6.274608499999999,9.4298482
+Botswana,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,4.838551600000001,3.6235448000000003,6.344443600000001
+Togo,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,1.5015383,1.0705483999999998,2.1105552
+Sierra Leone,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,4.6301391,3.2376375,6.335745800000001
+Senegal,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.101612,4.5412786,8.1502773
+Nigeria,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.804834100000001,4.3844435,7.6303884
+Niger,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,3.1819776,2.2111082,4.3937862
+Mauritania,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.2499767,3.7818170999999996,7.136390400000001
+Mali,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,3.4648217000000003,2.3735706,4.9047414
+Liberia,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.6571482,5.233283,8.346539
+Guinea-Bissau,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.4875825,3.9477314999999997,7.4259579
+The Gambia,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,4.0489443,2.8437547,5.6360882
+Guinea,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,2.0445297,1.4569231,2.828401
+Ghana,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.0273845,4.6402220000000005,7.7127635
+Cape Verde,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.9907621,5.2240081,9.0255819
+Cote d'Ivoire,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,3.9586682,2.775906,5.5059161
+Burkina Faso,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,3.6359776000000004,2.5620129,5.1376507
+Benin,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,4.306006099999999,3.1743109,5.668281
+Dominica,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.381522100000001,4.822541,8.2034998
+Dominican Republic,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,3.3834804000000003,2.4639066,4.5148335
+Antigua and Barbuda,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.795834000000001,5.1331785,8.7413475
+Cuba,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,7.4313551,5.7104293,9.6064411
+Grenada,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.3688405,4.7850873,8.252573
+Jamaica,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,9.0131953,7.1042478000000004,11.348766000000001
+Trinidad and Tobago,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.453971,4.1878722999999995,7.0503414
+The Bahamas,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.916765900000001,5.2370600000000005,8.9823902
+Saint Lucia,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,8.3858475,6.649316099999999,10.328195
+Saint Vincent and the Grenadines,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.5535768999999995,5.0089095,8.4268481
+Barbados,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.6714598,4.3881141,7.1239702000000005
+Haiti,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,4.7142696,3.4680999999999997,6.1249774
+Puerto Rico,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,8.978223100000001,6.9408253,11.434118999999999
+"Virgin Islands, U.S.",2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,7.2745129,5.5178408,9.398637
+Panama,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,9.3097582,7.4584752000000005,11.142495
+El Salvador,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.647253,5.269298,8.2192905
+Nicaragua,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.687338700000001,5.2509498,8.2990944
+Mexico,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,10.649033,8.7278865,12.706554
+Honduras,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.001819299999999,4.7055237,7.4806817
+Guatemala,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.4689547,5.1168185,8.017534
+Costa Rica,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,7.765973399999999,6.1270948,9.6191496
+Belize,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.218655,4.7449984,8.0306023
+United States,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,7.3223256,5.8554739,8.9348815
+Greenland,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.1094817,4.8091653999999995,7.5119719
+Bermuda,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.3404436,4.1426655,6.7055471
+Colombia,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,4.6038073,3.6044937,5.7509225
+Guyana,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.0285162,4.4976752,7.821233599999999
+Ecuador,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.824090300000001,5.2670304,8.7321289
+Paraguay,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.809662299999999,5.4544657,8.2849465
+Suriname,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.3903376,4.7932725000000005,8.3361596
+Uruguay,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.861066699999999,4.6135768,7.4295162999999995
+Venezuela,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.7338988,5.2879624,8.265422299999999
+Peru,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,7.5934455,5.8284026,9.6533895
+Chile,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.8540072,4.573429,7.3365442000000005
+Brazil,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.104628,4.8469152,7.4713156000000005
+Bolivia,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,7.0735946,5.3335562,9.012466700000001
+Argentina,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,7.8332834,6.3507661,9.6109986
+Turkmenistan,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.2310821,3.7555967000000003,7.1171433
+Uzbekistan,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.0722353,3.9801013000000003,6.302604100000001
+Tajikistan,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,4.1884851,3.0133432,5.8451299
+Kyrgyzstan,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,4.6235837,3.3034969,6.325005
+Kazakhstan,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.3260695,3.7991512999999997,7.2685428
+Mongolia,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,4.4164483,3.2709938000000003,5.919282900000001
+Taiwan,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,8.2326964,6.4409524,10.384504
+South Korea,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.6640949,4.4844639,6.989699600000001
+North Korea,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.5651326,4.2350143,7.134531400000001
+Japan,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.2396146,4.9367547,7.6587692
+China,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,7.1849837999999995,5.7947673,8.7778702
+Myanmar,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.1294196,3.8420744,6.676286500000001
+Cambodia,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,1.3165168,0.9282008700000001,1.8423346999999999
+Vietnam,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,4.8236459,3.4529496,6.471581
+Laos,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,4.8829243,3.2839849999999995,6.8278618
+Malaysia,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,8.3491646,6.1516054,10.995101
+Thailand,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.2034726,4.5674022,8.1315815
+Brunei,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,7.147098300000001,5.3862877000000005,9.1721021
+Philippines,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,4.2891756,3.0807151,5.8007021
+Indonesia,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.7499312,4.182886,7.663285
+Singapore,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.1340621,3.8182348,6.654220800000001
+Timor-Leste,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,2.1627592,1.6113821000000002,2.7972074
+Maldives,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.281736,3.7752669,7.3070489
+Nepal,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.3969657,5.0368674,8.0389537
+Pakistan,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,8.637067700000001,6.8858951,10.610234
+Iran,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.0562339,4.6581037,7.7885777
+Sri Lanka,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.456383499999999,3.9112117,7.3440126999999995
+Bhutan,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,8.8848524,7.054045100000001,10.912773000000001
+Bangladesh,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,8.3601318,6.640701,10.291354
+Afghanistan,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,4.5373045,3.2678604,6.3110113
+Oman,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.3859753,4.6799656,8.516950900000001
+Kuwait,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,7.7899903,6.1009977,9.6978083
+Palestine,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.665059199999999,5.126125699999999,8.4950224
+Lebanon,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,9.5140807,7.2397687,12.285871
+Qatar,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,4.9635772000000005,3.7930593,6.336799999999999
+Saudi Arabia,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,8.1393011,6.540821500000001,9.9901237
+Turkey,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,7.8439169,6.1063997,9.7154632
+Yemen,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.0236987,4.4503089000000005,7.807402300000001
+Iraq,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.3313926,3.8650151,7.2403014
+Jordan,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,11.181211000000001,8.819769299999999,14.005366
+Syria,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.635598099999999,4.7562417,8.8790745
+Israel,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,8.3449602,6.7284204,10.086608
+Georgia,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.3188451,3.8574446,7.2411291
+Cyprus,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.638743,5.1699337,8.384039999999999
+Bahrain,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,7.414182299999999,5.3819846,9.975481799999999
+Azerbaijan,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.5106137,3.9449923,7.4466825
+Armenia,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.3383636999999995,3.8511366,7.421578500000001
+United Arab Emirates,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,10.283536,7.7180043000000005,13.360341
+Moldova,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.1923137,4.0187045999999995,6.5885238
+Hungary,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.6107484,4.1192028999999994,7.4220508
+Poland,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,7.6369002,5.6158025,10.177594
+Romania,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.9815053,4.2723961,8.144924000000001
+Ukraine,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.428890900000001,4.0976156,6.8730332
+Belarus,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.3071037,4.0175915,6.852112000000001
+Czech Republic,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.6112867,4.1000236,7.599061
+Russia,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.6183867,4.4038273000000006,6.997098
+Slovakia,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.2814139,4.4475014999999996,8.681467900000001
+Bulgaria,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.159506700000001,4.37348,8.3095901
+Norway,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.8590365,5.2902877,8.547326199999999
+Sweden,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.7868499,4.4913881,7.1998596
+Lithuania,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.710456300000001,5.1861495,8.4102973
+Latvia,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.525348,4.2104006,7.2183408
+Ireland,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.1156014,3.8508963,6.664284299999999
+Iceland,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,7.080587,5.473911800000001,8.8738926
+United Kingdom,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.7469994,4.5688715,7.0439748
+Finland,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.730193600000001,5.3284872,8.481764
+Estonia,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.3899292,4.1711628,6.826262900000001
+Denmark,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.1551198000000005,4.7528315,7.830929
+Macedonia,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.8842458,4.2355921,8.008963600000001
+Montenegro,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.2762186,4.543095500000001,8.4089383
+Croatia,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.9951721,4.9917959,9.655758
+Malta,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.6402957,5.033996,8.520280600000001
+Slovenia,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.2405925,4.4960301000000005,8.3131373
+Greece,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,3.9579056,2.9149462,5.0656553
+Italy,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.7688329000000005,4.4123586,7.2287731
+Portugal,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.2630618,4.1035116,6.7162201
+Serbia,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.019413500000001,4.2555727,8.2312442
+Spain,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,7.148154099999999,5.6664009,8.987204
+Bosnia and Herzegovina,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.0496435,4.3230105,8.1543103
+Andorra,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.2750213,4.8065733,7.9031795
+Albania,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.866511,5.0424706,9.0599336
+Netherlands,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,4.3550435,3.2841899,5.5812117
+Luxembourg,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.6129389000000005,4.408069299999999,7.2123043
+France,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.1487589,4.8286904,7.6432421999999995
+Germany,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.6244269,4.369913,7.0147969
+Switzerland,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.9879442,5.5064090000000006,8.6200379
+Belgium,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,6.4166665,4.8329663,8.152975099999999
+Austria,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.031367400000001,3.8376126000000004,6.4831704000000006
+New Zealand,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,7.9602033,6.267244399999999,9.8260164
+Australia,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,5.7758719,4.49741,7.2300851
+Papua New Guinea,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,7.2176054,5.0783575,9.9642128
+Vanuatu,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,7.3763542,5.632560000000001,9.549398700000001
+Solomon Islands,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,7.6964809999999995,5.0988603,10.943175
+Fiji,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,7.7335559,5.4199584000000005,10.683361
+Guam,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,9.6767277,6.5743998,13.524249
+Northern Mariana Islands,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,9.818534600000001,6.639242200000001,14.073896
+Marshall Islands,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,12.102535,8.4514067,16.908998999999998
+Federated States of Micronesia,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,9.7234227,6.8658418999999995,13.623062
+Kiribati,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,9.7963251,6.8512112,13.349386999999998
+Samoa,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,8.583177599999999,6.0032766,11.973111
+Tonga,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,8.4028974,5.6960568,11.829538000000001
+American Samoa,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,14.018412,10.183636,18.593605
+Canada,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,4.9705632,3.8783439000000004,6.1985765
+Egypt,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,3.8158855999999997,2.7221644,5.1497463
+India,2015,35-39 years,Both,High fasting plasma glucose,Exposure per 100,10.026024,8.1802748,12.058033
+
+"Global Burden of Disease Study 2015. Global Burden of Disease Study 2015 (GBD 2015) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2016."
+"Available from from https://http://vizhub.healthdata.org/gbd-compare/"
+"For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"

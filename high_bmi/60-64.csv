@@ -1,0 +1,200 @@
+﻿Location,Year,Age,Sex,Risk factor,Measure,Value,Lower bound,Upper bound
+Mozambique,2015,60-64 years,Both,High body-mass index,Exposure per 100,5.4642951532888,2.7206307673901997,9.1797073289945
+Mauritius,2015,60-64 years,Both,High body-mass index,Exposure per 100,8.6064553859377,5.034651192739,13.052933282601002
+Malawi,2015,60-64 years,Both,High body-mass index,Exposure per 100,3.6491033375520003,1.5810359708641,6.3957280048287
+Rwanda,2015,60-64 years,Both,High body-mass index,Exposure per 100,3.4982613318410003,1.6029271820885,5.9519886061812
+Somalia,2015,60-64 years,Both,High body-mass index,Exposure per 100,3.9636626016018,1.6711054619652,7.3193835519578005
+Zambia,2015,60-64 years,Both,High body-mass index,Exposure per 100,6.6957693719077005,3.4833763536525,10.811845675287
+Kenya,2015,60-64 years,Both,High body-mass index,Exposure per 100,5.6102397790399,3.5292737888772,8.0797365862015
+Madagascar,2015,60-64 years,Both,High body-mass index,Exposure per 100,2.5229084204374996,1.0209260273894,4.7081425552161
+South Sudan,2015,60-64 years,Both,High body-mass index,Exposure per 100,4.504441423829101,2.0723977363199997,7.7761642414517995
+Seychelles,2015,60-64 years,Both,High body-mass index,Exposure per 100,11.051995675105001,6.9903109501475,15.457081466598
+Tanzania,2015,60-64 years,Both,High body-mass index,Exposure per 100,4.1716084233556,2.1533053384458998,6.672980017968901
+Uganda,2015,60-64 years,Both,High body-mass index,Exposure per 100,3.917842122285,2.0877266827147,6.2106411453687
+Zimbabwe,2015,60-64 years,Both,High body-mass index,Exposure per 100,6.7178326454418995,4.0145510184151005,10.257194621119
+Ethiopia,2015,60-64 years,Both,High body-mass index,Exposure per 100,3.2795787816015,1.4147411518023,6.1589124157044
+Eritrea,2015,60-64 years,Both,High body-mass index,Exposure per 100,2.0055713380569,0.82635805553119,3.7896524149415
+Djibouti,2015,60-64 years,Both,High body-mass index,Exposure per 100,7.4276705211428,3.9827337159468996,12.059927477805001
+Comoros,2015,60-64 years,Both,High body-mass index,Exposure per 100,4.8237307274374,2.2675517803179,8.3485140193887
+Burundi,2015,60-64 years,Both,High body-mass index,Exposure per 100,1.2886854322226,0.42771189683287003,2.5995277255266998
+Gabon,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.3690747463053,5.9393924051864,13.401910212924001
+Equatorial Guinea,2015,60-64 years,Both,High body-mass index,Exposure per 100,6.2941950879298005,3.789468348871,9.1888304758687
+Chad,2015,60-64 years,Both,High body-mass index,Exposure per 100,7.0544010852402,4.0237219341513,10.554396896704
+Sao Tome and Principe,2015,60-64 years,Both,High body-mass index,Exposure per 100,6.8332344769826,3.8480079653508996,10.583037986142
+Congo,2015,60-64 years,Both,High body-mass index,Exposure per 100,5.3172900335014,2.9403392133161,8.0709273117039
+Democratic Republic of the Congo,2015,60-64 years,Both,High body-mass index,Exposure per 100,2.2969451729989,1.1184412801597,3.6917814926762
+Cameroon,2015,60-64 years,Both,High body-mass index,Exposure per 100,8.5986341752845,5.213465171417099,12.319718822877
+Central African Republic,2015,60-64 years,Both,High body-mass index,Exposure per 100,3.805340408527,2.0952965180741,5.8807293510227
+Angola,2015,60-64 years,Both,High body-mass index,Exposure per 100,5.3651033683824,3.0681113201946,8.1876194517925
+Morocco,2015,60-64 years,Both,High body-mass index,Exposure per 100,7.3758119150098995,4.2515983018785,10.702587872154
+Libya,2015,60-64 years,Both,High body-mass index,Exposure per 100,11.637925167278,7.8202985019614,16.081027444766
+Sudan,2015,60-64 years,Both,High body-mass index,Exposure per 100,8.0426755619748,4.914879876286999,11.663203713839
+Tunisia,2015,60-64 years,Both,High body-mass index,Exposure per 100,7.899574648853,4.8272123187476,11.234997653268
+Algeria,2015,60-64 years,Both,High body-mass index,Exposure per 100,12.249938948819,8.0835798031499,17.007386713276
+Namibia,2015,60-64 years,Both,High body-mass index,Exposure per 100,6.4395839260869,3.9990064226635003,9.4187687612106
+Swaziland,2015,60-64 years,Both,High body-mass index,Exposure per 100,12.118590104083001,8.3198751538147,16.18167883659
+Lesotho,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.911253969997299,6.2261118123785,13.984596999137
+South Africa,2015,60-64 years,Both,High body-mass index,Exposure per 100,13.448548102921002,9.7007809128879,17.67649774334
+Botswana,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.5936061266887,5.8518066006221,14.249266680516001
+Togo,2015,60-64 years,Both,High body-mass index,Exposure per 100,4.4298728175255,2.4149085287081,6.8103574053821
+Sierra Leone,2015,60-64 years,Both,High body-mass index,Exposure per 100,5.1620134322465,2.7963452162949003,8.1072870466999
+Senegal,2015,60-64 years,Both,High body-mass index,Exposure per 100,4.835990740421,2.452309933313,7.5938361203175
+Nigeria,2015,60-64 years,Both,High body-mass index,Exposure per 100,5.9556664225229,3.4004083552955,8.8678656809897
+Niger,2015,60-64 years,Both,High body-mass index,Exposure per 100,4.1975491019622,2.0235427073127,7.049196882377901
+Mauritania,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.185859327176,5.7074465032148,13.417583014883999
+Mali,2015,60-64 years,Both,High body-mass index,Exposure per 100,8.1981745588286,4.7122932658601995,12.10533100786
+Liberia,2015,60-64 years,Both,High body-mass index,Exposure per 100,8.7114542870846,5.1957066597115995,12.804472559041999
+Guinea-Bissau,2015,60-64 years,Both,High body-mass index,Exposure per 100,5.0084361385448,2.6503075212708,7.6832199736516005
+The Gambia,2015,60-64 years,Both,High body-mass index,Exposure per 100,6.0198590998105,3.2756149879811,9.3630448603881
+Guinea,2015,60-64 years,Both,High body-mass index,Exposure per 100,4.2493955715709,2.1914111003317998,6.731940889325
+Ghana,2015,60-64 years,Both,High body-mass index,Exposure per 100,6.6749924406324,3.832347630014,9.9688845725398
+Cape Verde,2015,60-64 years,Both,High body-mass index,Exposure per 100,6.6471786399343,3.5562049005568004,10.320240037902
+Cote d'Ivoire,2015,60-64 years,Both,High body-mass index,Exposure per 100,4.9118241211477,2.4997241242782,7.9076074411278
+Burkina Faso,2015,60-64 years,Both,High body-mass index,Exposure per 100,4.888909372574,2.7369212667266,7.5153332713504
+Benin,2015,60-64 years,Both,High body-mass index,Exposure per 100,8.3625416961425,4.9063388847509,12.328460774663
+Dominica,2015,60-64 years,Both,High body-mass index,Exposure per 100,10.072963714149,6.5686448309491,14.12384532836
+Dominican Republic,2015,60-64 years,Both,High body-mass index,Exposure per 100,8.9611022910058,5.8152374557704,12.904369174667
+Antigua and Barbuda,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.0229103251145,5.6047994682618,12.882147077511
+Cuba,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.7808384366843,6.3641980365479,13.693997086898
+Grenada,2015,60-64 years,Both,High body-mass index,Exposure per 100,10.589783171505001,7.0243343851404,14.575846189531
+Jamaica,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.4701798200007,6.1201104307479,13.286090158557002
+Trinidad and Tobago,2015,60-64 years,Both,High body-mass index,Exposure per 100,11.252030098627,7.512901083356,15.444793069328998
+The Bahamas,2015,60-64 years,Both,High body-mass index,Exposure per 100,11.45589969865,7.4627850800268,15.747521148078999
+Saint Lucia,2015,60-64 years,Both,High body-mass index,Exposure per 100,10.854409511668,7.3552339477158,14.958772821863
+Saint Vincent and the Grenadines,2015,60-64 years,Both,High body-mass index,Exposure per 100,13.075230958908,9.062735870107,17.759124893885
+Barbados,2015,60-64 years,Both,High body-mass index,Exposure per 100,11.807441674157,7.9546599806647995,16.344446654205
+Haiti,2015,60-64 years,Both,High body-mass index,Exposure per 100,4.6187324388148,2.5908391508596003,7.1525976516331
+Puerto Rico,2015,60-64 years,Both,High body-mass index,Exposure per 100,17.883697608,11.576285686296,25.22880083954
+"Virgin Islands, U.S.",2015,60-64 years,Both,High body-mass index,Exposure per 100,13.952494214804002,9.522135314277099,18.793450437865
+Panama,2015,60-64 years,Both,High body-mass index,Exposure per 100,5.961919399878799,3.0938553701230003,9.576695600915
+El Salvador,2015,60-64 years,Both,High body-mass index,Exposure per 100,10.310994643962,6.3757219578223,14.676284186656998
+Nicaragua,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.8047282031097,5.9194850872243,14.30342016201
+Mexico,2015,60-64 years,Both,High body-mass index,Exposure per 100,11.177556409038,7.568122116414901,15.089427197326
+Honduras,2015,60-64 years,Both,High body-mass index,Exposure per 100,8.9513456491132,5.2786309286836,13.102931763006001
+Guatemala,2015,60-64 years,Both,High body-mass index,Exposure per 100,6.620462329399,3.4938848034959005,10.610167581757999
+Costa Rica,2015,60-64 years,Both,High body-mass index,Exposure per 100,10.042057264982999,6.1549874267146,14.562319043208
+Belize,2015,60-64 years,Both,High body-mass index,Exposure per 100,10.855663742082001,7.1743478170237,15.251187765847
+United States,2015,60-64 years,Both,High body-mass index,Exposure per 100,12.272251161207,8.6906351501317,16.236766013719002
+Greenland,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.223964348402,5.5900850941252,13.498525761053001
+Bermuda,2015,60-64 years,Both,High body-mass index,Exposure per 100,10.065675903355,6.609032257768201,14.123405078887
+Colombia,2015,60-64 years,Both,High body-mass index,Exposure per 100,8.173436115739,4.9710439672686,12.14522422936
+Guyana,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.0500127032317,5.722323850661501,12.827935775745
+Ecuador,2015,60-64 years,Both,High body-mass index,Exposure per 100,10.619006610853,6.7083986138832,14.837796236966
+Paraguay,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.226737445048,5.662323242884701,13.087035899257
+Suriname,2015,60-64 years,Both,High body-mass index,Exposure per 100,11.732742131572001,7.839327237324099,16.017612879769
+Uruguay,2015,60-64 years,Both,High body-mass index,Exposure per 100,10.673939864850999,6.815031526330199,14.929909152393
+Venezuela,2015,60-64 years,Both,High body-mass index,Exposure per 100,10.282605511939,6.471899879263001,14.756884276317
+Peru,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.6730478536365,6.3156391177541,13.34068885681
+Chile,2015,60-64 years,Both,High body-mass index,Exposure per 100,10.317741746117,6.587157245422399,14.354991320017
+Brazil,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.0227459552342,5.8625976794652,12.41454995495
+Bolivia,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.139291671547301,5.8030496699411005,12.919089607377
+Argentina,2015,60-64 years,Both,High body-mass index,Exposure per 100,10.206316238424,6.3653996215284,14.49636839638
+Turkmenistan,2015,60-64 years,Both,High body-mass index,Exposure per 100,10.009608133478,6.4821428284476,14.028135421353
+Uzbekistan,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.983189722874899,6.679227718191299,13.836231504356999
+Tajikistan,2015,60-64 years,Both,High body-mass index,Exposure per 100,5.2826031578935,2.9872979224469,8.076796030359901
+Kyrgyzstan,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.0191022257571,5.680148780689899,12.909235892949
+Kazakhstan,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.2396842912446,5.6781609030452,13.27220540563
+Mongolia,2015,60-64 years,Both,High body-mass index,Exposure per 100,8.381762496164601,5.1372739126799,11.865693583473
+Taiwan,2015,60-64 years,Both,High body-mass index,Exposure per 100,5.4708889596253005,2.8128459396454,9.1394508192877
+South Korea,2015,60-64 years,Both,High body-mass index,Exposure per 100,4.1875405280219,1.9317793941958001,6.8760147036159
+North Korea,2015,60-64 years,Both,High body-mass index,Exposure per 100,1.8261802357199999,0.6433602993132,3.5093017494872
+Japan,2015,60-64 years,Both,High body-mass index,Exposure per 100,3.1256183735449,1.3150957424561,5.412774920501
+China,2015,60-64 years,Both,High body-mass index,Exposure per 100,4.1915037602793,2.025279726026,6.7676996524941995
+Myanmar,2015,60-64 years,Both,High body-mass index,Exposure per 100,4.9501846996876,2.619521402182,8.2449665922275
+Cambodia,2015,60-64 years,Both,High body-mass index,Exposure per 100,2.6241722389979,1.1267402222686,4.642720738652399
+Vietnam,2015,60-64 years,Both,High body-mass index,Exposure per 100,2.0442095687148,0.78009712200241,3.8156488011007004
+Laos,2015,60-64 years,Both,High body-mass index,Exposure per 100,3.1203873121543,1.3663204711803,5.714424584754299
+Malaysia,2015,60-64 years,Both,High body-mass index,Exposure per 100,7.3169676444857,4.1329826973317,11.188462758964999
+Thailand,2015,60-64 years,Both,High body-mass index,Exposure per 100,5.3097721216871,2.7460902353317,8.662488351491799
+Brunei,2015,60-64 years,Both,High body-mass index,Exposure per 100,5.1877528851628005,2.712474004932,8.1195170747357
+Philippines,2015,60-64 years,Both,High body-mass index,Exposure per 100,3.4070172745255,1.6709284783432001,5.687718556304199
+Indonesia,2015,60-64 years,Both,High body-mass index,Exposure per 100,3.5473584726363,1.8070623730661002,5.9753460484657
+Singapore,2015,60-64 years,Both,High body-mass index,Exposure per 100,5.197645915928399,2.6435407722619,8.154915211131101
+Timor-Leste,2015,60-64 years,Both,High body-mass index,Exposure per 100,1.8195769020251,0.74268028838912,3.3008617307061
+Maldives,2015,60-64 years,Both,High body-mass index,Exposure per 100,8.9771309084571,5.290452237917799,13.417368678111998
+Nepal,2015,60-64 years,Both,High body-mass index,Exposure per 100,3.0314209049580003,1.4818857594605,5.0607455719993
+Pakistan,2015,60-64 years,Both,High body-mass index,Exposure per 100,5.2941826707863004,2.8081110999601,8.229247976056401
+Iran,2015,60-64 years,Both,High body-mass index,Exposure per 100,8.6881444730468,5.3931089395822,12.378411273099001
+Sri Lanka,2015,60-64 years,Both,High body-mass index,Exposure per 100,4.4826819025918,2.1886087217945,7.3960744292806
+Bhutan,2015,60-64 years,Both,High body-mass index,Exposure per 100,5.0995815767574,2.6938113562314,7.8367192042789995
+Bangladesh,2015,60-64 years,Both,High body-mass index,Exposure per 100,2.0813477797352,0.8566217531436601,3.7648041439282998
+Afghanistan,2015,60-64 years,Both,High body-mass index,Exposure per 100,5.2149852031212,3.1474606486695,7.516503992756101
+Oman,2015,60-64 years,Both,High body-mass index,Exposure per 100,10.579208530013,6.8697924010952995,14.665468069411
+Kuwait,2015,60-64 years,Both,High body-mass index,Exposure per 100,18.254644507385002,13.502312991203,23.396747936379
+Palestine,2015,60-64 years,Both,High body-mass index,Exposure per 100,11.773249303975,8.030949987671,16.08120842368
+Lebanon,2015,60-64 years,Both,High body-mass index,Exposure per 100,11.042865661772,7.3728887492019,15.049216800157
+Qatar,2015,60-64 years,Both,High body-mass index,Exposure per 100,15.635723567480001,11.004802386192999,20.652926086187
+Saudi Arabia,2015,60-64 years,Both,High body-mass index,Exposure per 100,13.324784121450001,9.4695586907138,17.450762126093
+Turkey,2015,60-64 years,Both,High body-mass index,Exposure per 100,13.291070449052,9.0897989778633,18.140228746606
+Yemen,2015,60-64 years,Both,High body-mass index,Exposure per 100,4.678500145566,2.5540784655978,7.0841138718436
+Iraq,2015,60-64 years,Both,High body-mass index,Exposure per 100,11.113160234355,7.6664173220194005,14.901695043888
+Jordan,2015,60-64 years,Both,High body-mass index,Exposure per 100,15.168530133965,10.680897438235,19.965967089977
+Syria,2015,60-64 years,Both,High body-mass index,Exposure per 100,11.15314346817,7.296226880599701,15.242901625967
+Israel,2015,60-64 years,Both,High body-mass index,Exposure per 100,11.17570693049,7.2510231223648995,15.774078852373
+Georgia,2015,60-64 years,Both,High body-mass index,Exposure per 100,8.4995187025027,5.3097749363961,12.162145129281999
+Cyprus,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.3370319439306,5.8310749443367,13.460540645392
+Bahrain,2015,60-64 years,Both,High body-mass index,Exposure per 100,11.216413658413,7.4507795351813995,15.63599530776
+Azerbaijan,2015,60-64 years,Both,High body-mass index,Exposure per 100,11.056545751285,7.2411943805269,15.175911730191999
+Armenia,2015,60-64 years,Both,High body-mass index,Exposure per 100,10.74259138719,6.94219663087,14.849932484285
+United Arab Emirates,2015,60-64 years,Both,High body-mass index,Exposure per 100,8.6836209537484,5.3102881373585005,12.758395743580001
+Moldova,2015,60-64 years,Both,High body-mass index,Exposure per 100,13.826468479991,9.7786408300843,18.093156573656998
+Hungary,2015,60-64 years,Both,High body-mass index,Exposure per 100,10.358174434941999,6.5455809651337,14.676227878231
+Poland,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.8866924003735,6.3585816990806,14.047954782547
+Romania,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.870739381679,5.9843335697638,14.907728736262
+Ukraine,2015,60-64 years,Both,High body-mass index,Exposure per 100,10.073298159268,6.657769335140901,13.958386022382
+Belarus,2015,60-64 years,Both,High body-mass index,Exposure per 100,11.427602216299999,7.3720439062746,15.549415532349
+Czech Republic,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.095706616961701,5.6052097638215,12.839721264609999
+Russia,2015,60-64 years,Both,High body-mass index,Exposure per 100,12.35537172184,8.490433654096801,16.950438730696
+Slovakia,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.7780627020613,6.0200232076833,13.980026855778998
+Bulgaria,2015,60-64 years,Both,High body-mass index,Exposure per 100,8.9814958646833,5.5640646975528,13.199840699205001
+Norway,2015,60-64 years,Both,High body-mass index,Exposure per 100,8.019200205839699,4.7554832583817,11.804013925924
+Sweden,2015,60-64 years,Both,High body-mass index,Exposure per 100,8.23218228342,4.9300906293818,11.938827558484
+Lithuania,2015,60-64 years,Both,High body-mass index,Exposure per 100,11.400087527862,7.5498053334333,15.538718194563
+Latvia,2015,60-64 years,Both,High body-mass index,Exposure per 100,11.075096617515,7.4679561612341,15.095517355285
+Ireland,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.8051987802154,6.3112394038885995,13.502582837988001
+Iceland,2015,60-64 years,Both,High body-mass index,Exposure per 100,11.229761598237,7.3499864312656,15.607954619868
+United Kingdom,2015,60-64 years,Both,High body-mass index,Exposure per 100,10.81368708187,7.4176036778798,14.590824056186
+Finland,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.570234946962799,6.0186479296583,13.586694491187002
+Estonia,2015,60-64 years,Both,High body-mass index,Exposure per 100,11.07851076087,7.3652850046705005,14.972187907935
+Denmark,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.0824099461687,5.7569519501599,12.728999068456002
+Macedonia,2015,60-64 years,Both,High body-mass index,Exposure per 100,11.276401373594,6.959566709629899,16.115143787701
+Montenegro,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.739884423400701,5.8896702328366,13.976562876188
+Croatia,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.3645963640301,5.6181575031537,13.502087487475
+Malta,2015,60-64 years,Both,High body-mass index,Exposure per 100,10.951293098769,7.037554796099201,15.303003821025
+Slovenia,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.1760541012922,5.7085510093193,12.962618406085
+Greece,2015,60-64 years,Both,High body-mass index,Exposure per 100,10.015444534496,6.3157883698769,14.136571957263
+Italy,2015,60-64 years,Both,High body-mass index,Exposure per 100,6.547450804810801,3.7440273993681004,9.7546628862041
+Portugal,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.9518259260721,6.2549264495132,13.890955596698
+Serbia,2015,60-64 years,Both,High body-mass index,Exposure per 100,11.590009428215001,7.8504942443133,15.713654483961001
+Spain,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.544671262222499,6.0448530653543,13.411453428417
+Bosnia and Herzegovina,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.0627785392679,5.6706122418861,12.800817531773001
+Andorra,2015,60-64 years,Both,High body-mass index,Exposure per 100,6.2271861694421,3.3455270160302004,9.5778984998943
+Albania,2015,60-64 years,Both,High body-mass index,Exposure per 100,7.7013317519286,4.3893663474802,11.731153298935
+Netherlands,2015,60-64 years,Both,High body-mass index,Exposure per 100,8.5793773090416,5.2900130794809,12.262836088303999
+Luxembourg,2015,60-64 years,Both,High body-mass index,Exposure per 100,10.254474195882999,6.637522761046901,14.552275352703
+France,2015,60-64 years,Both,High body-mass index,Exposure per 100,8.047070466375999,4.7802756363653,11.715190262887
+Germany,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.9548355227031,6.463403384684301,14.157333149615999
+Switzerland,2015,60-64 years,Both,High body-mass index,Exposure per 100,7.206365958144299,4.3279144021543,10.601624111161
+Belgium,2015,60-64 years,Both,High body-mass index,Exposure per 100,8.6585915790952,5.3964962853589,12.251731301131
+Austria,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.4599668620314,5.8731877732919,13.279492809818
+New Zealand,2015,60-64 years,Both,High body-mass index,Exposure per 100,10.708103512249,6.827191030492499,14.950009040822
+Australia,2015,60-64 years,Both,High body-mass index,Exposure per 100,11.470941740728,7.3334867163365,15.997572211364
+Papua New Guinea,2015,60-64 years,Both,High body-mass index,Exposure per 100,6.1146492127364995,2.8828492346633,10.084171291429001
+Vanuatu,2015,60-64 years,Both,High body-mass index,Exposure per 100,8.4390004970141,5.0648499764469,12.20385869931
+Solomon Islands,2015,60-64 years,Both,High body-mass index,Exposure per 100,11.248016184106,6.7166827589765,16.118124756613
+Fiji,2015,60-64 years,Both,High body-mass index,Exposure per 100,11.915349434286,6.819928515816601,18.238044621989
+Guam,2015,60-64 years,Both,High body-mass index,Exposure per 100,14.080862995297998,8.953543139095,19.261595099562
+Northern Mariana Islands,2015,60-64 years,Both,High body-mass index,Exposure per 100,11.054361125555,6.700363812045899,15.833419285856001
+Marshall Islands,2015,60-64 years,Both,High body-mass index,Exposure per 100,14.182544130016,9.049005268906999,19.785839247965
+Federated States of Micronesia,2015,60-64 years,Both,High body-mass index,Exposure per 100,12.249200071829,7.271086037622999,17.816162013217
+Kiribati,2015,60-64 years,Both,High body-mass index,Exposure per 100,15.210139464864,9.8681465657255,21.144400124668
+Samoa,2015,60-64 years,Both,High body-mass index,Exposure per 100,19.790906314122,13.906658702353,26.223397056142
+Tonga,2015,60-64 years,Both,High body-mass index,Exposure per 100,18.564262428863,12.297258553182001,25.396698676466002
+American Samoa,2015,60-64 years,Both,High body-mass index,Exposure per 100,23.033563824252003,16.946155727866998,29.767500450675
+Canada,2015,60-64 years,Both,High body-mass index,Exposure per 100,9.2372104961769,5.7422889595187,13.18200122414
+Egypt,2015,60-64 years,Both,High body-mass index,Exposure per 100,13.129079694730999,9.0127105836394,17.642687728379
+India,2015,60-64 years,Both,High body-mass index,Exposure per 100,2.913686154517,1.591110173308,4.4915195355972
+
+"Global Burden of Disease Study 2015. Global Burden of Disease Study 2015 (GBD 2015) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2016."
+"Available from from https://http://vizhub.healthdata.org/gbd-compare/"
+"For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"
