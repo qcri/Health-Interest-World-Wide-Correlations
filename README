@@ -2,5 +2,17 @@ Correlating World Health With Facebook Marketing API
 
 The folders: ./diabetes, ./high_bmi, ./high_glucose and ./smoking has the baseline data from http://vizhub.healthdata.org/gbd-compare/
 
-In the script folder there is all the correlations we computed.
+In the "./script" folder there is the scripts that computes the correlations.
+
+collect_data_from_facebook.py:
+	USE: collect the data from Facebook Marketing API
+	INPUT: countries_age_ranges_diabetes_obesity_smoking.json
+	OUTPUT: csv file with data collected
+
+
+run_correlations.py:
+	USE: correlates the data from the baseline and the collected data. It uses coutries_data file to match the name of the countries of facebook and IHME.
+	INPUT: csv file used in collect_data_from_facebook.py
+	OUTPUT: 'worldwide_correlations.xlsx'
+	
 
