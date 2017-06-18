@@ -1,0 +1,6 @@
+Correlating World Health With Facebook Marketing API
+
+The folders: ./diabetes, ./high_bmi, ./high_glucose and ./smoking has the baseline data from http://vizhub.healthdata.org/gbd-compare/
+
+In the script folder there is all the correlations we computed.
+
