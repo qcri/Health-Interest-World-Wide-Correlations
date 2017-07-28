@@ -1,0 +1,197 @@
+,Unnamed: 0,name,country_code,obesity,high_glucose,tobacco,country_population,continent,health_spending,oecd,gdp,english_population,developed,peace,war,arab_league,facebook_population,no_expats,letters_3_code,ihme_name,english,highfb,highfb_english,least1millionFBuser,asia,europe,africa,s_america,oceania,n_america
+0,2012,Afghanistan,AF,2.9,8.4,,27657145.0,asia,8.18227382,False,590.0,2100000.0,False,,True,False,2600000.0,2400000.0,AFG,Afghanistan,True,False,False,True,True,False,False,False,False,False
+1,2013,Albania,AL,17.6,8.3,29.7,2886026.0,europe,5.88310543,False,3964.0,750000.0,False,,,False,1300000.0,1200000.0,ALB,Albania,True,True,True,True,False,True,False,False,False,False
+2,2014,Algeria,DZ,24.8,10.5,,40400000.0,africa,7.20717804,False,4206.0,1500000.0,False,,,True,15000000.0,13000000.0,DZA,Algeria,False,True,False,True,False,False,True,False,False,False
+3,2015,Andorra,AD,29.5,9.1,33.1,78014.0,europe,8.12713561,False,,,True,,,,43000.0,13000.0,AND,Andorra,False,True,False,False,False,True,False,False,False,False
+4,2016,Angola,AO,10.2,5.6,,25789024.0,africa,3.30698293,False,4102.0,620000.0,False,,,False,3200000.0,2700000.0,AGO,Angola,False,False,False,True,False,False,True,False,False,False
+5,2017,Argentina,AR,26.3,10.2,25.3,43850000.0,s_america,4.78591616,False,12622.0,2100000.0,False,,,False,28000000.0,26000000.0,ARG,Argentina,False,True,False,True,False,False,False,True,False,False
+6,2018,Armenia,AM,19.5,12.3,28.0,2995100.0,europe,4.48014942,False,3497.0,,False,,,,910000.0,850000.0,ARM,Armenia,False,True,False,False,False,True,False,False,False,False
+7,2019,Aruba,AW,,,,,,,False,,,,,,,80000.0,46000.0,ABW,,False,False,False,False,False,False,False,False,False,False
+8,2020,Australia,AU,28.6,7.3,16.0,24234900.0,oceania,9.42230024,True,56330.0,14000000.0,True,,,False,15000000.0,11000000.0,AUS,Australia,True,True,True,True,False,False,False,False,True,False
+9,2021,Austria,AT,18.4,6.0,,8741753.0,europe,11.20547328,True,43444.0,1400000.0,True,,,False,3600000.0,2500000.0,AUT,Austria,False,True,False,True,False,True,False,False,False,False
+10,2022,Azerbaijan,AZ,22.5,11.6,23.5,9755500.0,europe,6.0368632,False,5497.0,330000.0,False,,,False,1800000.0,1600000.0,AZE,Azerbaijan,False,False,False,True,False,True,False,False,False,False
+11,2023,Bahrain,BH,35.1,8.5,30.3,1404900.0,asia,4.98079638,False,23396.0,,False,,,True,960000.0,350000.0,BHR,Bahrain,False,True,False,False,True,False,False,False,False,False
+12,2024,Bangladesh,BD,3.6,8.0,21.8,161204000.0,asia,2.81899856,False,1212.0,18000000.0,False,,,False,21000000.0,20000000.0,BGD,Bangladesh,True,False,False,True,True,False,False,False,False,False
+13,2025,Barbados,BB,31.3,14.1,7.0,285000.0,n_america,7.469303,False,15896.0,,False,,,,160000.0,130000.0,BRB,Barbados,False,True,False,False,False,False,False,False,False,True
+14,2026,Belarus,BY,23.4,9.5,27.9,9500000.0,europe,5.68772158,False,5742.0,,False,,,,1100000.0,930000.0,BLR,Belarus,False,False,False,True,False,True,False,False,False,False
+15,2027,Belgium,BE,20.2,6.4,23.9,11307986.0,europe,10.5947509,True,40216.0,2200000.0,True,,,False,6300000.0,4900000.0,BEL,Belgium,False,True,False,True,False,True,False,False,False,False
+16,2028,Belize,BZ,22.5,9.9,,375909.0,n_america,5.78895004,False,4897.0,,False,,,,150000.0,120000.0,BLZ,Belize,False,True,False,False,False,False,False,False,False,True
+17,2029,Benin,BJ,9.3,5.1,8.8,10653654.0,africa,4.59429651,False,779.0,,False,,,,900000.0,760000.0,BEN,Benin,False,False,False,False,False,False,True,False,False,False
+18,2030,Bhutan,BT,6.7,9.2,,778820.0,asia,3.57301481,False,2515.0,,False,,,,230000.0,210000.0,BTN,Bermuda,False,False,False,False,True,False,False,False,False,False
+19,2031,Bolivia,BO,17.1,6.6,,10985059.0,s_america,6.33482729,False,3094.0,310000.0,False,,,False,4200000.0,3900000.0,BOL,Bolivia,False,True,False,True,False,False,False,True,False,False
+20,2032,Bosnia and Herzegovina,BA,17.9,9.3,39.2,3531159.0,europe,9.57201597,False,4198.0,580000.0,False,,,False,1500000.0,1300000.0,BIH,Bosnia and Herzegovina,False,True,False,True,False,True,False,False,False,False
+21,2033,Botswana,BW,22.4,6.0,,2230905.0,africa,5.41200262,False,6368.0,,False,True,,,670000.0,570000.0,BWA,Botswana,False,True,False,False,False,False,True,False,False,False
+22,2034,Brazil,BR,20.0,8.1,16.1,206759000.0,s_america,8.32283359,False,8538.0,5200000.0,False,True,,False,109000000.0,107000000.0,BRA,Brazil,False,True,False,True,False,False,False,True,False,False
+23,2035,Brunei,BN,,,,411900.0,asia,,False,36609.0,,False,,,,340000.0,210000.0,,Brunei,False,True,False,False,True,False,False,False,False,False
+24,2036,Bulgaria,BG,23.2,10.3,36.8,7153784.0,europe,8.44291326,False,6818.0,1700000.0,False,,,False,3200000.0,3000000.0,BGR,Bulgaria,True,True,True,True,False,True,False,False,False,False
+25,2037,Burkina Faso,BF,6.3,4.2,19.1,19034397.0,,4.96026323,False,613.0,,False,,,,610000.0,550000.0,BFA,Burkina Faso,False,False,False,False,False,False,False,False,False,False
+26,2038,Burundi,BI,2.6,2.6,,10114505.0,africa,7.53556539,False,276.0,,False,,,,410000.0,360000.0,BDI,Burundi,False,False,False,False,False,False,True,False,False,False
+27,2039,Cambodia,KH,3.2,5.9,23.0,15626444.0,asia,5.67563855,False,1159.0,3700000.0,False,,,False,4100000.0,3900000.0,KHM,Cambodia,True,False,False,True,True,False,False,False,False,False
+28,2040,Cameroon,CM,11.4,4.7,18.8,22709892.0,africa,4.10367158,False,1251.0,790000.0,False,,True,False,2200000.0,2000000.0,CMR,Cameroon,False,False,False,True,False,False,True,False,False,False
+29,2041,Canada,CA,28.0,7.2,16.2,36323700.0,n_america,10.449582,True,43251.0,18000000.0,True,,,False,22000000.0,17000000.0,CAN,Canada,True,True,True,True,False,False,False,False,False,True
+30,2042,Cape Verde,CV,,,,531239.0,africa,,False,3135.0,,False,,,,190000.0,160000.0,CPV,Cape Verde,False,True,False,False,False,False,True,False,False,False
+31,2043,Central African Republic,CF,5.1,5.7,,4998000.0,africa,4.20022213,False,307.0,,False,,,,78000.0,49000.0,CAF,Central African Republic,False,False,False,False,False,False,True,False,False,False
+32,2044,Chad,TD,8.1,4.6,,14497000.0,africa,3.6211644,False,776.0,,False,,True,,150000.0,130000.0,TCD,Chad,False,False,False,False,False,False,True,False,False,False
+33,2045,Chile,CL,27.8,11.4,38.9,18191900.0,s_america,7.78585767,True,13383.0,950000.0,False,True,,False,12000000.0,11000000.0,CHL,Chile,False,True,False,True,False,False,False,True,False,False
+34,2046,China,CN,6.9,9.4,25.9,1379150000.0,asia,5.54822768,False,7925.0,670000.0,False,,,False,1900000.0,1100000.0,CHN,China,False,False,False,True,True,False,False,False,False,False
+35,2047,Colombia,CO,21.0,8.0,11.6,48868000.0,s_america,7.20129855,False,6056.0,1900000.0,False,,,False,24000000.0,23000000.0,COL,Colombia,False,True,False,True,False,False,False,True,False,False
+36,2048,Comoros,KM,6.6,5.9,15.3,806153.0,africa,6.74764314,False,790.0,,False,,,True,64000.0,56000.0,COM,Comoros,False,False,False,False,False,False,True,False,False,False
+37,2049,Costa Rica,CR,24.3,8.5,14.2,4890379.0,n_america,9.31311229,False,10625.0,390000.0,False,True,,False,2900000.0,2600000.0,CRI,Costa Rica,False,True,False,True,False,False,False,False,False,True
+38,2050,Croatia,HR,23.3,9.9,36.0,4190669.0,europe,7.80324176,False,11548.0,770000.0,False,,,False,1800000.0,1600000.0,HRV,Croatia,False,True,False,True,False,True,False,False,False,False
+39,2051,Curacao,CW,,,,,,,False,,,,,,,110000.0,69000.0,,,False,False,False,False,False,False,False,False,False,False
+40,2052,Cyprus,CY,23.8,7.8,,847000.0,europe,7.36761162,False,22957.0,,True,,,,800000.0,450000.0,CYP,Cyprus,False,True,False,False,False,True,False,False,False,False
+41,2053,Czech Republic,CZ,26.8,9.6,33.4,10564866.0,europe,7.41091154,True,17233.0,780000.0,True,,,False,4400000.0,4100000.0,CZE,Czech Republic,False,True,False,True,False,True,False,False,False,False
+42,2054,Congo,CD,11.0,5.7,18.5,85110000.0,africa,4.32823361,False,1851.0,620000.0,False,,,False,2200000.0,2000000.0,,,False,False,False,True,False,False,True,False,False,False
+43,2055,Denmark,DK,19.3,6.1,18.9,5724456.0,europe,10.80495696,True,51965.0,1300000.0,True,,,False,3500000.0,3000000.0,DNK,Denmark,False,True,False,True,False,True,False,False,False,False
+44,2056,Djibouti,DJ,9.6,6.2,,900000.0,africa,10.56825612,False,1785.0,,False,,,True,150000.0,93000.0,DJI,Djibouti,False,False,False,False,False,False,True,False,False,False
+45,2057,Dominica,DM,25.8,11.4,,71293.0,n_america,5.48583257,False,,,False,,,,39000.0,28000.0,DMA,Dominica,False,True,False,False,False,False,False,False,False,True
+46,2058,Dominican Republic,DO,23.9,9.3,14.5,10075045.0,n_america,4.37577756,False,6373.0,620000.0,False,,,False,4400000.0,3900000.0,DOM,Dominican Republic,False,True,False,True,False,False,False,False,False,True
+47,2059,Ecuador,EC,18.7,7.3,9.0,16635333.0,s_america,9.16108824,False,6250.0,790000.0,False,,,False,8700000.0,8000000.0,ECU,Ecuador,False,True,False,True,False,False,False,True,False,False
+48,2060,Egypt,EG,28.9,16.2,23.8,91709900.0,africa,5.64211505,False,3615.0,7200000.0,False,,,True,29000000.0,28000000.0,EGY,Egypt,False,True,False,True,False,False,True,False,False,False
+49,2061,El Salvador,SV,21.8,8.8,,6520675.0,n_america,6.77240285,False,4217.0,300000.0,False,,,False,2800000.0,2600000.0,SLV,El Salvador,False,True,False,True,False,False,False,False,False,True
+50,2062,Equatorial Guinea,GQ,17.5,7.6,,1222442.0,africa,3.80407904,False,11056.0,,False,,,,75000.0,33000.0,GNQ,Equatorial Guinea,False,False,False,False,False,False,True,False,False,False
+51,2063,Eritrea,ER,4.1,3.4,,5352000.0,africa,3.33829318,False,,,False,,,,60000.0,55000.0,ERI,Eritrea,False,False,False,False,False,False,True,False,False,False
+52,2064,Estonia,EE,22.6,9.3,33.2,1315944.0,europe,6.37929421,True,17321.0,,True,,,,610000.0,570000.0,EST,Estonia,False,True,False,False,False,True,False,False,False,False
+53,2065,Ethiopia,ET,4.0,3.8,4.7,101853000.0,africa,4.88431325,False,619.0,4700000.0,False,,,False,4400000.0,4100000.0,ETH,Ethiopia,True,False,False,True,False,False,True,False,False,False
+54,2066,Fiji,FJ,36.4,16.6,26.5,867000.0,oceania,4.48749874,False,4928.0,,False,,,,370000.0,330000.0,FJI,Fiji,False,True,False,False,False,False,False,False,True,False
+55,2067,Finland,FI,20.6,7.7,21.8,5498450.0,europe,9.67990894,True,41936.0,750000.0,True,,,False,2600000.0,2300000.0,FIN,Finland,False,True,False,True,False,True,False,False,False,False
+56,2068,France,FR,23.9,8.0,28.1,66790000.0,europe,11.53951975,True,36248.0,5800000.0,True,,,False,32000000.0,26000000.0,FRA,France,False,True,False,True,False,True,False,False,False,False
+57,2069,Gabon,GA,17.6,8.1,,1802278.0,africa,3.43747162,False,8289.0,,False,,,,480000.0,350000.0,GAB,Gabon,False,False,False,False,False,False,True,False,False,False
+58,2070,Georgia,GE,20.8,15.0,30.0,3720400.0,europe,7.4166592,False,3795.0,660000.0,False,,,False,1900000.0,1800000.0,GEO,Georgia,False,True,False,True,False,True,False,False,False,False
+59,2071,Germany,DE,20.1,7.4,30.7,82175700.0,europe,11.29700067,True,41221.0,10000000.0,True,,,False,30000000.0,24000000.0,DEU,Germany,False,True,False,True,False,True,False,False,False,False
+60,2072,Ghana,GH,12.2,4.8,6.3,27670174.0,africa,3.55729189,False,1381.0,3500000.0,False,,,False,3700000.0,3400000.0,GHA,Ghana,True,False,False,True,False,False,True,False,False,False
+61,2073,Greece,GR,22.9,9.1,43.4,11328850.0,europe,8.08426702,True,18042.0,2100000.0,True,,,False,5000000.0,4200000.0,GRC,Greece,False,True,False,True,False,True,False,False,False,False
+62,2074,Grenada,GD,26.2,9.8,,103328.0,n_america,6.09761403,False,8891.0,,False,,,,57000.0,43000.0,GRD,Grenada,False,True,False,False,False,False,False,False,False,True
+63,2075,Guatemala,GT,18.6,7.5,,16176133.0,n_america,6.20230127,False,3904.0,390000.0,False,,,False,4700000.0,4500000.0,GTM,Guatemala,False,False,False,True,False,False,False,False,False,True
+64,2076,Guinea,GN,6.8,4.7,,12947000.0,africa,5.64479793,False,531.0,,False,,,,950000.0,880000.0,GIN,Guinea,False,False,False,False,False,False,True,False,False,False
+65,2077,Guinea-Bissau,GW,7.2,5.2,,1547777.0,africa,5.59313736,False,574.0,,False,,,,82000.0,68000.0,GNB,Guinea-Bissau,False,False,False,False,False,False,True,False,False,False
+66,2078,Guyana,GY,22.9,9.1,,746900.0,s_america,5.2478035,False,4112.0,,False,,,,280000.0,250000.0,GUY,Guyana,False,True,False,False,False,False,False,True,False,False
+67,2079,Haiti,HT,11.9,6.9,11.8,11078033.0,n_america,7.55565419,False,829.0,580000.0,False,,,False,1300000.0,1200000.0,HTI,Haiti,False,False,False,True,False,False,False,False,False,True
+68,2080,Honduras,HN,18.2,7.2,18.9,8721014.0,n_america,8.72268046,False,2494.0,290000.0,False,,,False,2500000.0,2400000.0,HND,Honduras,False,False,False,True,False,False,False,False,False,True
+69,2081,Hong Kong,HK,,,,,,,False,42398.0,,True,,,False,5100000.0,4200000.0,,,False,False,False,True,False,False,False,False,False,False
+70,2082,Hungary,HU,24.0,10.0,29.6,9823000.0,europe,7.40078093,True,12252.0,1100000.0,False,,,False,5100000.0,4800000.0,HUN,Hungary,False,True,False,True,False,True,False,False,False,False
+71,2083,Iceland,IS,22.8,7.1,17.5,336060.0,europe,8.85916593,True,50297.0,,True,,,,240000.0,200000.0,ISL,Iceland,False,True,False,False,False,True,False,False,False,False
+72,2084,India,IN,4.9,7.8,12.4,1330910000.0,asia,4.68508833,False,1582.0,134000000.0,False,,,False,153000000.0,150000000.0,IND,India,True,False,False,True,True,False,False,False,False,False
+73,2085,Indonesia,ID,5.7,7.0,38.5,260581000.0,asia,2.84686016,False,3347.0,16000000.0,False,,,False,81000000.0,78000000.0,IDN,Indonesia,False,True,False,True,True,False,False,False,False,False
+74,2086,Iraq,IQ,23.8,13.2,,36787000.0,asia,5.53887318,False,4630.0,2600000.0,False,,True,True,13000000.0,13000000.0,IRQ,Iraq,False,True,False,True,True,False,False,False,False,False
+75,2087,Ireland,IE,25.6,7.3,23.2,4757976.0,europe,7.78319657,True,51297.0,2400000.0,True,,,False,2600000.0,2000000.0,IRL,Ireland,True,True,True,True,False,True,False,False,False,False
+76,2088,Israel,IL,25.3,7.2,30.4,8592200.0,asia,7.80830808,False,35330.0,2200000.0,True,,,False,5200000.0,4000000.0,ISR,Israel,False,True,False,True,True,False,False,False,False,False
+77,2089,Italy,IT,21.0,8.5,24.2,60665551.0,europe,9.24791783,True,29848.0,5300000.0,True,,,False,29000000.0,25000000.0,ITA,Italy,False,True,False,True,False,True,False,False,False,False
+78,2090,Jamaica,JM,27.2,11.9,17.6,2723246.0,n_america,5.36152479,False,5130.0,980000.0,False,,,False,1100000.0,980000.0,JAM,Jamaica,True,True,True,True,False,False,False,False,False,True
+79,2091,Japan,JP,3.3,10.1,22.8,126685000.0,asia,10.22874408,True,32477.0,2100000.0,True,True,,False,28000000.0,27000000.0,JPN,Japan,False,False,False,True,True,False,False,False,False,False
+80,2092,Jordan,JO,30.5,13.1,38.4,9735510.0,asia,7.45299586,False,4936.0,1300000.0,False,,,True,4600000.0,3600000.0,JOR,Jordan,False,True,False,True,True,False,False,False,False,False
+81,2093,Kazakhstan,KZ,23.4,11.5,26.3,17753200.0,asia,4.35593983,False,10511.0,160000.0,False,,,False,2400000.0,2300000.0,KAZ,Kazakhstan,False,False,False,True,True,False,False,False,False,False
+82,2094,Kenya,KE,7.0,4.0,13.6,47251000.0,africa,5.72029126,False,1377.0,5500000.0,False,,,False,5900000.0,5400000.0,KEN,Kenya,True,False,False,True,False,False,True,False,False,False
+83,2095,Kiribati,KI,40.6,22.0,54.0,113400.0,oceania,10.21295042,False,1318.0,,False,,,,10000.0,9500.0,KIR,Kiribati,False,False,False,False,False,False,False,False,True,False
+84,2096,Kosovo,XK,,,,1836978.0,,,False,3548.0,,False,,,,800000.0,560000.0,,,False,True,False,False,False,False,False,False,False,False
+85,2097,Kuwait,KW,39.7,14.7,,4183658.0,asia,3.04236844,False,28985.0,1700000.0,False,,,True,2700000.0,800000.0,KWT,Kuwait,True,True,True,True,True,False,False,False,False,False
+86,2098,Kyrgyzstan,KG,14.4,8.6,26.4,6088000.0,asia,,False,1103.0,,False,,,,470000.0,440000.0,KGZ,Kyrgyzstan,False,False,False,False,True,False,False,False,False,False
+87,2099,Laos,LA,3.5,5.6,34.0,6492400.0,asia,1.86554551,False,1813.0,230000.0,False,,,False,1300000.0,1200000.0,,Laos,False,False,False,True,True,False,False,False,False,False
+88,2100,Latvia,LV,23.7,9.4,35.9,1957600.0,europe,5.88069354,True,13654.0,,True,,,,710000.0,670000.0,LVA,Latvia,False,True,False,False,False,True,False,False,False,False
+89,2101,Lebanon,LB,31.9,12.6,37.0,5988000.0,asia,6.39370883,False,8052.0,1900000.0,False,,,True,3100000.0,2300000.0,LBN,Lebanon,True,True,True,True,True,False,False,False,False,False
+90,2102,Lesotho,LS,14.2,6.0,25.4,1916000.0,africa,10.61767672,False,1019.0,,False,,,,270000.0,250000.0,LSO,Lesotho,False,False,False,False,False,False,True,False,False,False
+91,2103,Liberia,LR,6.6,5.6,14.2,4076530.0,africa,10.03633328,False,456.0,,False,,,,360000.0,310000.0,LBR,Liberia,False,False,False,False,False,False,True,False,False,False
+92,2104,Libya,LY,33.1,13.7,,6385000.0,africa,4.96893503,False,4642.0,470000.0,False,,,True,2800000.0,2400000.0,LBY,Libya,False,True,False,True,False,False,True,False,False,False
+93,2105,Liechtenstein,LI,,,,37623.0,europe,,False,,,True,,,,14000.0,6800.0,LIE,,False,True,False,False,False,True,False,False,False,False
+94,2106,Lithuania,LT,25.9,9.7,30.1,2862786.0,europe,6.55211709,False,14173.0,720000.0,True,,,False,1300000.0,1300000.0,LTU,Lithuania,True,True,True,True,False,True,False,False,False,False
+95,2107,Luxembourg,LU,23.1,6.8,24.4,576200.0,europe,6.93787356,True,101393.0,,True,,,,290000.0,130000.0,LUX,Luxembourg,False,True,False,False,False,True,False,False,False,False
+96,2108,Macau,MO,,,,,,,False,78268.0,,,,,,380000.0,240000.0,,,False,False,False,False,False,False,False,False,False,False
+97,2109,Macedonia,MK,,,,2071278.0,europe,,False,,,False,,,,1000000.0,900000.0,,Macedonia,False,True,False,False,False,True,False,False,False,False
+98,2110,Madagascar,MG,5.4,3.9,,22434363.0,africa,3.04135502,False,412.0,280000.0,False,,,False,1200000.0,1100000.0,MDG,Madagascar,False,False,False,True,False,False,True,False,False,False
+99,2111,Malawi,MW,5.3,4.3,16.3,16832910.0,africa,11.37795606,False,381.0,,False,,,,690000.0,630000.0,MWI,Malawi,False,False,False,False,False,False,True,False,False,False
+100,2112,Malaysia,MY,13.3,9.8,22.3,31784500.0,asia,4.16907804,False,9766.0,14000000.0,False,,,False,20000000.0,18000000.0,MYS,Malaysia,True,True,True,True,True,False,False,False,False,False
+101,2113,Maldives,MV,7.9,8.5,,344023.0,asia,13.73352009,False,7666.0,,False,,,,280000.0,180000.0,MDV,Maldives,False,True,False,False,True,False,False,False,False,False
+102,2114,Mali,ML,6.8,5.0,18.6,18341000.0,africa,6.86216649,False,744.0,200000.0,False,,,False,1100000.0,990000.0,MLI,Mali,False,False,False,True,False,False,True,False,False,False
+103,2115,Malta,MT,26.6,10.1,25.9,429344.0,europe,9.74992027,False,,,True,,,,300000.0,220000.0,MLT,Malta,False,True,False,False,False,True,False,False,False,False
+104,2116,Marshall Islands,MH,42.8,20.7,,54880.0,oceania,17.13572274,False,3740.0,,False,,,,18000.0,14000.0,MHL,Marshall Islands,False,True,False,False,False,False,False,False,True,False
+105,2117,Mauritania,MR,9.7,6.7,22.3,3718678.0,africa,3.77269904,False,1337.0,,False,,,True,380000.0,320000.0,MRT,Mauritania,False,False,False,False,False,False,True,False,False,False
+106,2118,Mauritius,MU,17.9,14.2,21.9,1262879.0,africa,4.80954464,False,9136.0,,False,True,,,610000.0,530000.0,MUS,Mauritius,False,True,False,False,False,False,True,False,False,False
+107,2119,Mexico,MX,28.1,10.4,14.5,128632000.0,n_america,6.29642103,True,9009.0,6700000.0,False,,,False,65000000.0,61000000.0,MEX,Mexico,False,True,False,True,False,False,False,False,False,True
+108,2120,Micronesia,FM,,,,,oceania,,False,3180.0,,,,,,18000.0,14000.0,,Federated States of Micronesia,False,False,False,False,False,False,False,False,True,False
+109,2121,Moldova,MD,,,,3553100.0,europe,10.32365569,False,1845.0,,False,,,,660000.0,610000.0,MDA,Moldova,False,False,False,False,False,True,False,False,False,False
+110,2122,Monaco,MC,,,,38400.0,europe,4.337683,False,,,,,,,20000.0,5400.0,MCO,,False,True,False,False,False,True,False,False,False,False
+111,2123,Mongolia,MN,16.7,9.6,26.8,3108675.0,asia,4.73034173,False,3972.0,1100000.0,False,,,False,1300000.0,1300000.0,MNG,Mongolia,True,True,True,True,True,False,False,False,False,False
+112,2124,Montenegro,ME,20.0,8.7,,621810.0,europe,6.41654268,False,6440.0,,False,,,,320000.0,240000.0,MNE,Montenegro,False,True,False,False,False,True,False,False,False,False
+113,2125,Morocco,MA,22.3,12.4,22.0,34102400.0,africa,5.90777806,False,2919.0,1700000.0,False,,,True,11000000.0,10000000.0,MAR,Morocco,False,True,False,True,False,False,True,False,False,False
+114,2126,Mozambique,MZ,5.3,4.6,18.8,26423700.0,africa,6.97558186,False,525.0,320000.0,False,,,False,1300000.0,1200000.0,MOZ,Mozambique,False,False,False,True,False,False,True,False,False,False
+115,2127,Myanmar,MM,2.9,6.6,20.0,54363426.0,asia,2.27575459,False,1203.0,10000000.0,False,,,False,12000000.0,11000000.0,MMR,Myanmar,True,False,False,True,True,False,False,False,False,False
+116,2128,Namibia,NA,18.9,5.4,23.8,2324388.0,africa,8.92868766,False,4693.0,,False,,,,510000.0,460000.0,NAM,Namibia,False,False,False,False,False,False,True,False,False,False
+117,2129,Nauru,NR,45.6,28.9,48.9,10084.0,oceania,3.32664948,False,,,,,,,2900.0,660.0,NRU,,False,False,False,False,False,False,False,False,True,False
+118,2130,Nepal,NP,3.3,9.1,24.6,30986975.0,asia,5.797226,False,732.0,5700000.0,False,,,False,6100000.0,5700000.0,NPL,Nepal,True,False,False,True,True,False,False,False,False,False
+119,2131,Netherlands Antilles,AN,,,,,,,False,,,,,,,20.0,20.0,ANT,,False,False,False,False,False,False,False,False,False,False
+120,2132,Netherlands,NL,19.8,6.1,25.7,17054000.0,europe,10.89729305,True,44424.0,3800000.0,True,,,False,9800000.0,8300000.0,NLD,Netherlands,False,True,False,True,False,True,False,False,False,False
+121,2133,New Zealand,NZ,29.2,8.5,17.6,4721040.0,oceania,11.0296101,True,37773.0,2700000.0,True,,,False,2900000.0,2100000.0,NZL,New Zealand,True,True,True,True,False,False,False,False,True,False
+122,2134,Nicaragua,NI,17.1,8.1,,6262703.0,n_america,9.04013941,False,2088.0,190000.0,False,,,False,1800000.0,1700000.0,NIC,Nicaragua,False,False,False,True,False,False,False,False,False,True
+123,2135,Niger,NE,4.3,4.1,8.4,20715000.0,africa,5.82129922,False,359.0,,False,,True,,340000.0,300000.0,NER,Niger,False,False,False,False,False,False,True,False,False,False
+124,2136,Nigeria,NG,11.0,4.3,8.9,186987000.0,africa,3.66879844,False,2640.0,15000000.0,False,,True,False,15000000.0,14000000.0,NGA,Nigeria,True,False,False,True,False,False,True,False,False,False
+125,2137,Norway,NO,23.1,6.6,24.1,5236826.0,europe,9.71971755,True,74676.0,1200000.0,True,,,False,3200000.0,2700000.0,NOR,Norway,False,True,False,True,False,True,False,False,False,False
+126,2138,Oman,OM,30.9,7.5,13.5,4496760.0,asia,3.55393969,False,15647.0,1200000.0,False,,,True,1800000.0,680000.0,OMN,Oman,True,True,True,True,True,False,False,False,False,False
+127,2139,Pakistan,PK,5.4,9.8,22.6,194452000.0,asia,2.61391631,False,1429.0,24000000.0,False,,,False,26000000.0,25000000.0,PAK,Pakistan,True,False,False,True,True,False,False,False,False,False
+128,2140,Palau,PW,47.6,22.8,,17950.0,oceania,9.02153343,False,14350.0,,False,,,,6100.0,3500.0,PLW,,False,True,False,False,False,False,False,False,True,False
+129,2141,Palestine,PS,,,,4816503.0,,,False,,,,,,True,1300000.0,1100000.0,,,False,False,False,True,False,False,False,False,False,False
+130,2142,Panama,PA,26.8,9.0,7.4,3814672.0,n_america,8.0257236,False,13265.0,240000.0,False,,,False,1800000.0,1500000.0,PAN,Panama,False,True,False,True,False,False,False,False,False,True
+131,2143,Papua New Guinea,PG,27.9,11.8,,8083700.0,oceania,4.26357082,False,2222.0,,False,,,,540000.0,490000.0,PNG,Papua New Guinea,False,False,False,False,False,False,False,False,True,False
+132,2144,Paraguay,PY,16.3,6.9,19.5,6854536.0,s_america,9.81442131,False,4160.0,180000.0,False,,,False,2700000.0,2600000.0,PRY,Paraguay,False,True,False,True,False,False,False,True,False,False
+133,2145,Peru,PE,21.1,6.9,,31488700.0,s_america,5.47303468,False,6121.0,1500000.0,False,,,False,17000000.0,16000000.0,PER,Peru,False,True,False,True,False,False,False,True,False,False
+134,2146,Philippines,PH,5.1,5.8,26.7,103120000.0,asia,4.7099852,False,2899.0,46000000.0,False,,,False,50000000.0,48000000.0,PHL,Philippines,True,True,True,True,True,False,False,False,False,False
+135,2147,Poland,PL,25.2,9.5,29.4,38672000.0,europe,6.35024637,True,12494.0,1900000.0,False,,,False,13000000.0,12000000.0,POL,Poland,False,True,False,True,False,True,False,False,False,False
+136,2148,Portugal,PT,20.1,9.2,22.6,10341330.0,europe,9.50107564,True,19220.0,1200000.0,True,,,False,5700000.0,4900000.0,PRT,Portugal,False,True,False,True,False,True,False,False,False,False
+137,2149,Qatar,QA,42.3,12.8,,2401598.0,asia,2.18706236,False,74513.0,1900000.0,False,True,,True,2300000.0,380000.0,QAT,Qatar,True,True,True,True,True,False,False,False,False,False
+138,2150,Congo,CG,11.0,5.7,18.5,85110000.0,africa,4.32823361,False,1851.0,620000.0,False,,,False,2200000.0,2000000.0,,,False,False,False,True,False,False,True,False,False,False
+139,2151,Romania,RO,21.7,8.4,30.5,19760000.0,europe,5.56500913,False,8974.0,3300000.0,False,,,False,8200000.0,7900000.0,ROU,Romania,False,True,False,True,False,True,False,False,False,False
+140,2152,Russia,RU,24.1,9.3,39.5,146691020.0,asia,7.07040825,False,9202.0,1500000.0,False,,,False,16000000.0,15000000.0,,Russia,False,False,False,True,True,False,False,False,False,False
+141,2153,Rwanda,RW,4.0,2.8,,11553188.0,africa,7.53155111,False,697.0,,False,,,,500000.0,420000.0,RWA,Rwanda,False,False,False,False,False,False,True,False,False,False
+142,2154,Saint Kitts and Nevis,KN,28.3,14.9,,46204.0,n_america,,False,15367.0,,False,,,,34000.0,21000.0,KNA,,False,True,False,False,False,False,False,False,False,True
+143,2155,Saint Lucia,LC,26.9,14.6,,186000.0,n_america,,False,7558.0,,False,,,,86000.0,74000.0,LCA,Saint Lucia,False,True,False,False,False,False,False,False,False,True
+144,2156,Saint Vincent and the Grenadines,VC,24.3,10.3,,109991.0,n_america,8.63023974,False,6827.0,,False,,,,56000.0,47000.0,VCT,Saint Vincent and the Grenadines,False,True,False,False,False,False,False,False,False,True
+145,2157,Samoa,WS,43.4,22.8,32.0,194899.0,oceania,7.21510906,False,4005.0,,False,,,,66000.0,53000.0,WSM,Samoa,False,True,False,False,False,False,False,False,True,False
+146,2158,San Marino,SM,,,,33005.0,europe,6.12906486,False,,,,,,,7600.0,2500.0,SMR,,False,False,False,False,False,True,False,False,False,False
+147,2159,Sao Tome and Principe,ST,12.3,5.6,,,africa,8.35346606,False,1774.0,,,,,,35000.0,31000.0,STP,Sao Tome and Principe,False,False,False,False,False,False,True,False,False,False
+148,2160,Saudi Arabia,SA,34.7,14.4,17.1,31015999.0,asia,4.68408481,False,20482.0,8800000.0,False,,,True,17000000.0,13000000.0,SAU,Saudi Arabia,True,True,True,True,True,False,False,False,False,False
+149,2161,Senegal,SN,9.8,5.1,11.1,14799859.0,africa,4.66497201,False,911.0,390000.0,False,,,False,2200000.0,1900000.0,SEN,Senegal,False,False,False,True,False,False,True,False,False,False
+150,2162,Serbia,RS,19.5,8.6,42.1,7076372.0,europe,10.36881192,False,5143.0,1600000.0,False,,,False,3200000.0,2700000.0,SRB,Serbia,False,True,False,True,False,True,False,False,False,False
+151,2163,Seychelles,SC,26.3,10.1,26.7,93144.0,africa,3.36981689,False,15978.0,,False,,,,47000.0,31000.0,SYC,Seychelles,False,True,False,False,False,False,True,False,False,False
+152,2164,Sierra Leone,SL,7.6,4.8,34.4,7075641.0,africa,11.08990224,False,694.0,,False,,,,320000.0,290000.0,SLE,Sierra Leone,False,False,False,False,False,False,True,False,False,False
+153,2165,Singapore,SG,6.2,9.1,16.2,5535000.0,asia,4.92279194,False,52841.0,3600000.0,True,,,False,4200000.0,2300000.0,SGP,Singapore,True,True,True,True,True,False,False,False,False,False
+154,2166,Sint Maarten,SX,,,,,,,False,,,,,,,30000.0,9200.0,,,False,False,False,False,False,False,False,False,False,False
+155,2167,Slovakia,SK,25.7,8.6,28.8,5426252.0,europe,8.05404755,False,15975.0,590000.0,True,,,False,2300000.0,2100000.0,SVK,Slovakia,False,True,False,True,False,True,False,False,False,False
+156,2168,Slovenia,SI,25.1,9.5,20.9,2063371.0,europe,9.23388628,True,20713.0,,True,,,,870000.0,750000.0,SVN,Slovenia,False,True,False,False,False,True,False,False,False,False
+157,2169,Solomon Islands,SB,27.7,10.8,,642000.0,oceania,5.05106254,False,1995.0,,False,,,,43000.0,34000.0,SLB,Solomon Islands,False,False,False,False,False,False,False,False,True,False
+158,2170,Somalia,SO,4.6,4.8,,11079000.0,africa,,False,552.0,,False,,,True,690000.0,610000.0,SOM,Somalia,False,False,False,False,False,False,True,False,False,False
+159,2171,South Africa,ZA,26.8,9.8,18.9,55654000.0,africa,8.79698456,False,5691.0,13000000.0,False,,,False,14000000.0,12000000.0,ZAF,South Africa,True,False,False,True,False,False,True,False,False,False
+160,2172,South Korea,KR,5.8,9.5,27.4,50501405.0,asia,7.37311255,False,27222.0,1600000.0,True,,,False,17000000.0,16000000.0,,South Korea,False,True,False,True,True,False,False,False,False,False
+161,2173,Spain,ES,23.7,9.4,30.3,46812000.0,europe,9.02988651,True,25832.0,3300000.0,True,,,False,24000000.0,20000000.0,ESP,Spain,False,True,False,True,False,True,False,False,False,False
+162,2174,Sri Lanka,LK,6.5,7.9,14.1,20966000.0,asia,3.50335011,False,3925.0,3800000.0,False,,,False,4200000.0,4100000.0,LKA,Sri Lanka,True,False,False,True,True,False,False,False,False,False
+163,2175,South Sudan,SS,7.5,,,12131000.0,africa,2.73842073,False,731.0,,False,,,True,,,SSD,,False,False,False,False,False,False,True,False,False,False
+164,2176,Suriname,SR,26.1,11.9,,541638.0,s_america,5.68746988,False,9033.0,,False,,,,260000.0,230000.0,,Suriname,False,True,False,False,False,False,False,True,False,False
+165,2177,Swaziland,SZ,17.7,6.6,10.2,1132657.0,africa,9.25193954,False,3147.0,,False,,,,160000.0,140000.0,SWZ,Swaziland,False,False,False,False,False,False,True,False,False,False
+166,2178,Sweden,SE,20.5,6.9,21.9,9920881.0,europe,11.92983965,True,50267.0,2100000.0,True,,,False,6100000.0,4900000.0,SWE,Sweden,False,True,False,True,False,True,False,False,False,False
+167,2179,Switzerland,CH,19.4,5.6,24.1,8341600.0,europe,11.65926872,True,80186.0,1500000.0,True,True,,False,3700000.0,2100000.0,CHE,Switzerland,False,True,False,True,False,True,False,False,False,False
+168,2180,Taiwan,TW,,,,23514750.0,asia,,False,,1800000.0,True,,,False,18000000.0,16000000.0,,Taiwan,False,True,False,True,True,False,False,False,False,False
+169,2181,Tajikistan,TJ,13.6,7.6,,8551000.0,asia,6.880884,False,926.0,,False,,,,91000.0,82000.0,TJK,Tajikistan,False,False,False,False,True,False,False,False,False,False
+170,2182,Tanzania,TZ,7.1,4.3,16.3,55155000.0,africa,5.58011591,False,840.0,3100000.0,False,,,False,4000000.0,3700000.0,,Tanzania,True,False,False,True,False,False,True,False,False,False
+171,2183,Thailand,TH,8.5,9.6,21.5,68145000.0,asia,6.52943298,False,5816.0,4800000.0,False,,,False,40000000.0,38000000.0,THA,Thailand,False,True,False,True,True,False,False,False,False,False
+172,2184,The Bahamas,BS,,,,,,,False,,,,,,,200000.0,160000.0,,The Bahamas,False,False,False,False,False,False,False,False,False,False
+173,2185,The Gambia,GM,,,,1882450.0,,,False,,,False,,,,220000.0,180000.0,,The Gambia,False,False,False,False,False,False,False,False,False,False
+174,2186,Timor-Leste,TL,2.2,3.9,,,,1.47530345,False,,,False,,,,300000.0,190000.0,TLS,Timor-Leste,False,False,False,False,False,False,False,False,False,False
+175,2187,Togo,TG,7.5,4.9,,7143000.0,africa,5.24687674,False,548.0,,False,,,,410000.0,330000.0,TGO,Togo,False,False,False,False,False,False,True,False,False,False
+176,2188,Tonga,TO,43.3,21.9,30.2,103252.0,oceania,5.17677064,False,3945.0,,False,,,,40000.0,34000.0,TON,Tonga,False,True,False,False,False,False,False,False,True,False
+177,2189,Trinidad and Tobago,TT,31.1,12.5,,1349667.0,n_america,5.93319696,False,20444.0,,False,,,,710000.0,620000.0,TTO,Trinidad and Tobago,False,True,False,False,False,False,False,False,False,True
+178,2190,Tunisia,TN,27.1,12.2,,11154400.0,africa,7.00385794,False,3872.0,1000000.0,False,,,True,5500000.0,5100000.0,TUN,Tunisia,False,True,False,True,False,False,True,False,False,False
+179,2191,Turkey,TR,29.5,13.2,27.0,79532400.0,asia,5.41495949,True,9130.0,4300000.0,False,,,False,44000000.0,41000000.0,TUR,Turkey,False,True,False,True,True,False,False,False,False,False
+180,2192,Turkmenistan,TM,20.1,10.2,,4751120.0,asia,2.06738625,False,6952.0,,False,,,,23000.0,14000.0,TKM,Turkmenistan,False,False,False,False,True,False,False,False,False,False
+181,2193,Tuvalu,TV,40.3,23.1,,10640.0,oceania,16.53663877,False,3800.0,,False,,,,2300.0,1500.0,TUV,,False,False,False,False,False,False,False,False,True,False
+182,2194,Uganda,UG,4.9,2.8,10.3,39121000.0,africa,7.22213686,False,676.0,2100000.0,False,,,False,2200000.0,1800000.0,UGA,Uganda,True,False,False,True,False,False,True,False,False,False
+183,2195,Ukraine,UA,20.1,9.1,30.7,42650186.0,europe,7.09573611,False,2005.0,870000.0,False,,,False,6300000.0,5900000.0,UKR,Ukraine,False,False,False,True,False,True,False,False,False,False
+184,2196,United Arab Emirates,AE,37.2,8.0,,9856000.0,asia,3.64398564,False,40425.0,6800000.0,False,,,True,8300000.0,1400000.0,ARE,United Arab Emirates,True,True,True,True,True,False,False,False,False,False
+185,2197,United Kingdom,GB,28.1,7.7,20.3,65112000.0,europe,9.11547172,True,43733.0,37000000.0,True,,,False,39000000.0,32000000.0,GBR,United Kingdom,True,True,True,True,False,True,False,False,False,False
+186,2198,United States,US,33.7,9.1,18.1,324644000.0,n_america,17.14075435,True,55837.0,183000000.0,True,,,False,204000000.0,171000000.0,,United States,True,True,True,True,False,False,False,False,False,True
+187,2199,Uruguay,UY,26.7,11.1,24.8,3480222.0,s_america,8.5814914,False,15581.0,190000.0,False,True,,False,2300000.0,2100000.0,URY,Uruguay,False,True,False,True,False,False,False,True,False,False
+188,2200,Uzbekistan,UZ,15.5,8.7,13.3,31575300.0,asia,5.83852176,False,2132.0,,False,,,,660000.0,620000.0,UZB,Uzbekistan,False,False,False,False,True,False,False,False,False,False
+189,2201,Vanuatu,VU,35.4,13.1,,277500.0,oceania,5.02357493,False,3019.0,,False,,,,36000.0,31000.0,VUT,Vanuatu,False,False,False,False,False,False,False,False,True,False
+190,2202,Vatican,VA,,,,,,,False,,,,,,,20.0,20.0,,,False,False,False,False,False,False,False,False,False,False
+191,2203,Venezuela,VE,24.8,8.8,,31028700.0,s_america,5.2567025,False,11936.0,890000.0,False,,,False,12000000.0,12000000.0,,Venezuela,False,True,False,True,False,False,False,True,False,False
+192,2204,Vietnam,VN,3.6,4.9,23.7,95261000.0,asia,7.06677833,False,2111.0,3000000.0,False,True,,False,37000000.0,36000000.0,VNM,Vietnam,False,True,False,True,True,False,False,False,False,False
+193,2205,Yemen,YE,17.2,7.7,,27478000.0,asia,5.63699019,False,1340.0,210000.0,False,,,True,2000000.0,1800000.0,YEM,Yemen,False,False,False,True,True,False,False,False,False,False
+194,2206,Zambia,ZM,8.9,4.2,15.9,15933883.0,africa,4.98676469,False,1361.0,1300000.0,False,,,False,1400000.0,1200000.0,ZMB,Zambia,True,False,False,True,False,False,True,False,False,False
+195,2207,Zimbabwe,ZW,10.5,4.6,,14240168.0,africa,6.43947119,False,891.0,,False,,,,900000.0,840000.0,ZWE,Zimbabwe,False,False,False,False,False,False,True,False,False,False
